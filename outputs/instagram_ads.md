@@ -60,3 +60,43 @@
 
 ### CTA
 “Visit GlowUp Salon and transform your hair today!”
+
+---
+
+# Instagram Captions
+
+## Caption 1
+
+Healthy, shiny hair starts with the right care ✨
+
+GlowUp Salon helped transform my dry and damaged hair into something I actually feel confident about 💇‍♀️
+
+If your hair is struggling with frizz, damage, or dryness, this is your sign to book that appointment.
+
+📍 Bangalore  
+📅 Limited weekend slots available
+
+#GlowUpSalon #HairSpa #BangaloreSalon #UGCAds #HairTransformation
+
+---
+
+## Caption 2
+
+Not every salon understands your hair needs… but GlowUp Salon really did 💖
+
+From damaged to smooth and shiny in just one session ✨
+
+Book your appointment now before slots fill up!
+
+#SalonInBangalore #HairCare #UGCContent #HairGoals
+
+---
+
+# CTA Variations
+
+- “Book your appointment today!”
+- “DM now to reserve your slot.”
+- “Visit GlowUp Salon this weekend.”
+- “Limited appointments available.”
+- “Transform your hair today.”
+- “Your healthy hair journey starts here.”
