@@ -1,0 +1,10 @@
+Adapt the same UGC ad content for different platforms:
+1. Instagram Reels
+2. Facebook Ads
+3. YouTube Shorts
+
+Requirements:
+- Maintain authentic UGC tone
+- Optimize style for each platform
+- Keep focus on conversions
+- Use short and engaging language
