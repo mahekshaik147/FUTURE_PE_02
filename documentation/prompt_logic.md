@@ -2,59 +2,71 @@
 
 ## Objective
 
-The prompts were designed to generate authentic UGC-style advertisements focused on conversions and engagement.
+The prompts were designed to generate authentic and conversion-focused UGC advertisements for social media platforms.
 
 ---
 
-# Prompt Design Strategy
+# Prompt Example 1 — Hook Generation
 
-## 1. Role Prompting
+## Prompt Used
 
-The AI is instructed to behave like:
-- a UGC creator
-- a content marketer
-- a short-form ad copywriter
+"Generate 10 scroll-stopping hooks for a salon ad targeting women aged 18–30 in Bangalore using an authentic UGC tone."
 
-This improves authenticity.
+## Output Example
 
----
+- “POV: Your hair finally survives Bangalore weather.”
+- “This hair spa fixed 6 months of damage.”
+- “I found a salon that actually understands my hair.”
 
-## 2. Audience Targeting
+## Why This Prompt Works
 
-Prompts specify:
-- age group
-- interests
-- customer pain points
-
-This makes outputs more relatable.
+This prompt:
+- targets a specific audience
+- requests authentic UGC tone
+- focuses on emotional relatability
+- encourages scroll-stopping content
 
 ---
 
-## 3. Tone Control
+# Prompt Example 2 — UGC Script Generation
 
-The prompts enforce:
-- conversational language
-- emotional storytelling
-- non-corporate style
+## Prompt Used
 
-This matches real UGC ads.
+"Write a 30-second Instagram Reel UGC ad script using the structure Hook → Problem → Solution → CTA."
+
+## Output Example
+
+### Problem
+“My hair looked dry and damaged after coloring.”
+
+### Solution
+“Then I tried GlowUp Salon’s hair spa treatment…”
+
+### CTA
+“Book your appointment before weekend slots fill up!”
+
+## Why This Prompt Works
+
+This framework:
+- creates emotional connection
+- introduces a clear solution
+- encourages conversions with CTA
 
 ---
 
-## 4. Conversion Focus
+# Prompt Engineering Techniques Used
 
-The prompts use:
-Problem → Solution → CTA
-
-This improves marketing effectiveness.
+- Role prompting
+- Tone control
+- Audience targeting
+- Platform adaptation
+- Conversion-focused prompting
 
 ---
 
-## 5. Platform Adaptation
+# Marketing Principles Applied
 
-Different outputs were generated for:
-- Instagram Reels
-- Facebook Ads
-- YouTube Shorts
-
-to match platform-specific content behavior.
+- Emotional storytelling
+- Problem-solving approach
+- Authentic UGC style
+- Short-form content optimization
