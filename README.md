@@ -156,6 +156,19 @@ The repository includes:
 
 ---
 
+
+# 📸 Project Screenshots
+
+## Instagram Reel Mockup
+![Instagram Reel Mockup](assets/mockups/instagram_reel_mockup.png)
+
+## Hook Generation
+![Hook Generation](assets/screenshots/hook_generation.png)
+
+## Instagram Ad Output
+![Instagram Ads](assets/screenshots/instagram_ads_output.png)
+
+
 # 📈 Skills Gained
 
 - Prompt Engineering
